@@ -1,4 +1,4 @@
-# 🌡️ Global Warming: Annual Temperature Anomaly Analysis (1850–2025)
+# 🌡️ Time-Series Predictive Analytics for Atmospheric Changes (1850–2025)
 
 > **A longitudinal climate data study examining 175 years of surface temperature deviation from pre-industrial baselines, with implications for environmental physiology and human performance research.**
 
